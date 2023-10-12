@@ -1,5 +1,4 @@
 ####    python 3.8.16
-####    URL: https://github.com/xiezg/tcp_proxy
 
 from abc import ABC, abstractmethod
 import time
